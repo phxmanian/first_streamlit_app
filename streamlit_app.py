@@ -4,10 +4,10 @@ streamlit.title('My Parents New Healthy Diner')
 
 streamlit.header('Breakfast Menu')
 
-streamlit.text('Egg')
+streamlit.text( '🥚 Egg')
 
-streamlit.text('Chicken')
+streamlit.text( '🍞 Chicken')
 
-streamlit.text('Veggies')
+streamlit.text( '🌿 Veggies')
 
-streamlit.title('Create your Own Smoothie')
+streamlit.title('🍹 Create your Own Smoothie 🍹 ')
