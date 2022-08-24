@@ -9,3 +9,5 @@ streamlit.text('Egg')
 streamlit.text('Chicken')
 
 streamlit.text('Veggies')
+
+streamlit.title('Create your Own Smoothie')
