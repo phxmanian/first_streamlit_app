@@ -2,6 +2,10 @@ import streamlit
 
 streamlit.title('My Parents New Healthy Diner')
 
-streamlit.title('Breakfast Menu')
+streamlit.header('Breakfast Menu')
 
-streamlit.title('Egg')
+streamlit.text('Egg')
+
+streamlit.text('Chicken')
+
+streamlit.text('Goat')
