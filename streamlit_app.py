@@ -11,3 +11,5 @@ streamlit.text( '🍞 Chicken')
 streamlit.text( '🌿 Veggies')
 
 streamlit.title('🍹 Create your Own Smoothie 🍹 ')
+
+import pandas
