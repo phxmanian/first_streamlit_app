@@ -8,4 +8,4 @@ streamlit.text('Egg')
 
 streamlit.text('Chicken')
 
-streamlit.text('Goat')
+streamlit.text('Veggies')
